@@ -3,7 +3,8 @@ Small test code to try out `pyodbc` module
 
 This code contains basic CRUD functionalites for User class in connection to SQL Server.
 
-Files : -user.py
+Files : 
+-user.py
 - database.py
 - main.py
 
