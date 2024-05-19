@@ -1,5 +1,5 @@
 # obdc_test
-Small test code to try out `pyodbc` module
+Small test code to try out `pyodbc` module.
 
 This code contains basic CRUD functionalites for User class in connection to SQL Server.
 
@@ -22,4 +22,4 @@ db = DatabaseManager(server="YOUR_SERVER", database="YOUR_DATABASE", trusted_con
 
 ## Windows Authentication is used by default.
 
-This code should server as a baseline for more complex project. I may work on something with it in the future :)
+This code should server as a baseline for more complex projects. I may work on something with it in the future :)
